@@ -1,7 +1,7 @@
 # CONTACT ACCESS
 👨‍🏫APLICATIVO DE GERENCIADOR DE CONTATOS EM REACT NATIVE QUE USA EXPO CONTACTS PARA EXIBIR CONTATOS DO DISPOSITIVO.
 
-<img src="FOTO.png" align="center" width="300"> <br>
+<img src="FOTO.png" align="center" width="200"> <br>
 
 ## DESCRIÇÃO:
 Esse aplicativo é um **gerenciador de contatos** que utiliza o React Native e a biblioteca **Expo Contacts** para acessar e exibir a lista de contatos do dispositivo do usuário. 
